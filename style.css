@@ -179,9 +179,10 @@ h2 {
 }
 
 .footer-logo img {
-    width: 50px;
-    height: 50px;
+    width: 250px;
+    height: 90px;
     margin-right: 10px;
+    z-index: 2;
     filter: drop-shadow(0 0 10px #abf63a);
 }
 
